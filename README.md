@@ -6,4 +6,4 @@
 
 📱 Além disso, trabalho há mais de um ano como Desenvolvedora de Software em iOS utilizando a linguagem Swift (UIKit).
 
-Neste github você pode encontrar um pouco mais sobre meus projetos pessoais e estudos!
+⬇️ Neste github você pode encontrar um pouco mais sobre meus projetos pessoais e estudos!
